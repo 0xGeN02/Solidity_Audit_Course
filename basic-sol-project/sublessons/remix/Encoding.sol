@@ -56,7 +56,8 @@ contract Encoding{
     
     // Use this instead
     function multiStringCastPacked() public pure returns(string memory){
-        string memory someString = string(abi.multiEncodePacked());
+        string memory someString = string(multiEncodePacked());
         return someString;
     }
+   
 }
