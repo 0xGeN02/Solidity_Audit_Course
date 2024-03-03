@@ -1,6 +1,6 @@
 # Solidity Audit Course
 
-This repository contains the code and resources for the Solidity Audit Course, a comprehensive guide to auditing Solidity smart contracts. The course is based on a video tutorial by Patrick Collins, which can be found [here](.https://www.youtube.com/watch?v=pUWmJ86X_do&t=4386s)
+This repository contains the code and resources for the Solidity Audit Course, a comprehensive guide to auditing Solidity smart contracts. The course is based on a video tutorial by Patrick Collins, which can be found [here](https://www.youtube.com/watch?v=pUWmJ86X_do&t=4386s)
 
 ## Structure
 
